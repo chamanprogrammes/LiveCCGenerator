@@ -28,14 +28,14 @@ You Can Also Use `pkg` command in Termux To Install This Tool
 
 ## Contact Us Via Telegram
 
-Telegram Username - @notameerchaman_bot
-Contact Us Via [Telegram](http://t.me/notameerchaman_bot)
-Join Our [Telegram Channel](http://t.me/chamanprogrammes)
+Telegram Username - @notameerchaman_bot <br>
+Contact Us Via [Telegram](http://t.me/notameerchaman_bot)<br>
+Join Our [Telegram Channel](http://t.me/chamanprogrammes)<br>
 
 ### Thanks For Using LiveCCGenerator BETA V1.0
-Thanks For Using This Tool 🔥
+Thanks For Using This Tool 🔥<br><br>
 
-*Tool Name :* `LiveCCGenerator`
-*Tool Version :* `BETA V1.0`
-*Release Date :* `10 August, 2023`
-*Tool Made By :* `@chamanprogrammes`
+*Tool Name :* `LiveCCGenerator`<br>
+*Tool Version :* `BETA V1.0`<br>
+*Release Date :* `10 August, 2023`<br>
+*Tool Made By :* `@chamanprogrammes`<br>
